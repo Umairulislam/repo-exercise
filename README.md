@@ -1,2 +1,2 @@
 # Repo Exercise
-Lab - Using a Reposiitory
+Lab - Using a Repository
