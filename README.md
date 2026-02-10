@@ -1,2 +1,2 @@
-# Repo Exercise of Meta Frontend Developer Bootcamp
-Exercise repo
+# Repo Exercise
+Lab - Using a Reposiitory
